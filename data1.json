@@ -1,0 +1,18 @@
+[
+    {
+        "no": 1,
+        "title": "HOGE技術入門",
+        "author": "hogehoge",
+        "publisher": "hoge社",
+        "review": "5GHOGE（第5世代hoge）を解き明かす",
+        "image": "https://cdn.pixabay.com/photo/2019/06/28/00/17/umbrella-4303278_1280.jpg"
+    },
+    {
+        "no": 2,
+        "title": "FUGA徹底入門",
+        "author": "FUGAfuga",
+        "publisher": "fuga社",
+        "review": "FUGAエキスパートによる解説",
+        "image": "https://cdn.pixabay.com/photo/2019/08/06/18/53/animals-4389024__480.jpg"
+    }
+]
