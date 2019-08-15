@@ -9,10 +9,10 @@
     },
     {
         "no": 2,
-        "title": "FUGA徹底入門",
-        "author": "FUGAfuga",
-        "publisher": "fuga社",
-        "review": "FUGAエキスパートによる解説",
-        "image": "https://cdn.pixabay.com/photo/2019/08/06/18/53/animals-4389024__480.jpg"
+        "title": "OAuth徹底入門",
+        "author": "Justin Richer, Antonio Sanso",
+        "publisher": "翔泳社",
+        "review": "OAuthは近年、WEBアプリケーションで使われる主要な認可プロトコルです。本書ではOAuthをどのようなプラットフォームでも適用できるように解説をしています。 本書は全体で16章あり、4つのパートに分割しています。パート1にあたる第1章と第2章はOAuth 2.0のプロトコルの概要を説明しており、基盤となる知識を得るための読み物としています。パート2は第3章から第6章までとなっており、OAuth 2.0のエコシステム全体をどのように構築するのかについて示しています。パート3は第7章から第10章までとなっており、OAuth 2.0のエコシステムにおけるさまざまな構成要素が持つ脆弱性について説明しており、その脆弱性をどのように回避するのかについて述べています。最後のパートは第11章から第16章までで構成されており、OAuth 2.0を核とした次の世代のプロトコルについて語っており、標準や仕様に関してOAuthの周辺の技術も踏まえて見ていき、最後に本書のまとめを行っています。",
+        "image": "http://books.google.com/books/content?id=yXyGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     }
 ]
